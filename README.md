@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 Estou em transiãp de carreira.
-- 🌱 Estudando Full Stack  e predendo formar em SRE DevOPS.
+- 🌱 Estudando Full Stack  e pretendo formar em SRE DevOPS.
 - 👯 Aprendendo Cloud com GCP.
 - 📫 luann.fernandos7@gmail.com.
 - ⚡ Determinação à 200%
